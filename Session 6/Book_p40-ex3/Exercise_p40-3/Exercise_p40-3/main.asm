@@ -1,0 +1,3 @@
+LDI R18, 0x0F;
+LDI R19, 0x02;
+ADD R18, R19;
