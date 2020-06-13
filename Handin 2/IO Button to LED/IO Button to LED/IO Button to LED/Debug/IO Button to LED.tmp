@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\GitHub\CAO1\Handin 2\IO Button to LED\IO Button to LED\IO Button to LED\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\GitHub\CAO1\Handin 2\IO Button to LED\IO Button to LED\IO Button to LED\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\GitHub\CAO1\Handin 2\IO Button to LED\IO Button to LED\IO Button to LED\Debug\IO Button to LED.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>IO Button to LED.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>IO Button to LED.map</FILE>
+  <FILE>IO Button to LED.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <seq><FILE>D:\GitHub\CAO1\Handin 2\IO Button to LED\IO Button to LED\IO Button to LED\main.asm</FILE><LINE>13</LINE></seq>
+  <on><FILE>D:\GitHub\CAO1\Handin 2\IO Button to LED\IO Button to LED\IO Button to LED\main.asm</FILE><LINE>20</LINE></on>
+  <off><FILE>D:\GitHub\CAO1\Handin 2\IO Button to LED\IO Button to LED\IO Button to LED\main.asm</FILE><LINE>24</LINE></off>
+ </LABELS>
+</ASSEMBLER_INFO>
